@@ -56,14 +56,4 @@ This project demonstrates a real-time embedded system that detects speed breaker
 - Integrate with real vehicle via CAN bus
 - Improve low-light detection and adaptive braking accuracy
 
-## Demo
-
-- [Add link to output video here]
-
-## How to Run (Raspberry Pi)
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/YOLOv8-SpeedBreaker-Detection.git
-   cd YOLOv8-SpeedBreaker-Detection
 
